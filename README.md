@@ -1,0 +1,1 @@
+# 4 bit arithmetic-logic unit with display of data on 7-segment screens
